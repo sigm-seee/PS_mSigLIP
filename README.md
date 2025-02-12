@@ -1,7 +1,6 @@
-# Person-Search using SigLIP
+# Text Based Person Search with SigLIP
 
 ## Setup
-
 1. Clone the repository
 ```bash
 git clone https://github.com/hungphongtrn/PERSON_RLF.git
